@@ -1,0 +1,65 @@
+#main{
+height: 100%;
+width: 100%;
+background-image: url(divImg.png);
+}
+
+.form-select{
+width: 250px;
+height: 50px;
+}
+
+.topo{
+background-image: url(./divImg.png);
+}
+
+.subtitulo{
+margin-bottom: 1vw;
+}
+
+.titulo{
+font-size: 2vw;
+}
+
+.amem{
+background-color: rgb(255, 255, 255);
+margin-top: 1.5vw;
+}
+
+.eita{
+width: 100%;
+height: 5vw;
+}
+
+.email{
+border-radius: 0.2vw;
+border: 1px solid #243746;
+}
+
+.footer{
+background-color: #243746;
+padding-top: 2vw;
+padding-bottom: 2vw;
+color: #ffffff;
+}
+
+.miau{
+padding-left: 3vw;
+}
+
+.texto{
+color: white;
+text-align: justify;
+margin-left: 5vw;
+}
+
+.foto{
+width: 30%;
+height: 10%;
+}
+
+.depois{
+border-top: 1px solid #ffffff;
+}
+
+
